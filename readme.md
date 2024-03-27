@@ -1,3 +1,3 @@
 ### Read it Carefully!
 
-This is a  reasdme file.. 
+This is a  readdme file.. 

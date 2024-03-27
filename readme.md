@@ -1,3 +1,3 @@
 ### Read it Carefully!
 
-This is a  readdme file.. 
+This is a  read me file.. 
